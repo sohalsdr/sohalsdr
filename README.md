@@ -1,8 +1,8 @@
 ### Hi there!
 
-I'm Sohal Sudheer, a Computer Science student at the University of Florida!
+I'm Sohal Sudheer, a Computer Science student at the University of Florida! I love programming (obviously), repairing computer hardware, exploring Linux-based operating systems, competing in the occasional CTF, and going on long bike rides!
 
-##### Skills
+###### Skills
 
 ###### Programming Languages
 
