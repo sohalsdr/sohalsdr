@@ -41,4 +41,4 @@ I'm Sohal Sudheer, a Computer Science student at the University of Florida! I lo
 
 ##### Stats
 
-[![sohal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohalsdr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![sohal's GitHub stats](https://github-readme-stats-hazel-psi.vercel.app/api?username=sohalsdr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
