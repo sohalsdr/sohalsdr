@@ -26,18 +26,8 @@ I'm Sohal Sudheer, a Computer Science student at the University of Florida! I lo
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=for-the-badge&logo=Fedora&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white)
-![Elementary](https://img.shields.io/badge/elementary-64BAFF.svg?style=for-the-badge&logo=elementary&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000.svg?style=for-the-badge&logo=Apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
-
-##### Contact
-
-[![Outlook](https://img.shields.io/badge/ssudheer%40ufl.edu-FF6A00?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:ssudheer@ufl.edu)
-[![Gmail](https://img.shields.io/badge/sohalsdr%40gmail.com-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sohalsdr@gmail.com)
 
 ##### Stats
 
