@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Sohal Sudheer, a Computer Science student at the University of Florida! I love programming, repairing computer hardware, exploring Linux-based operating systems, competing in the occasional CTF, and going on long bike rides!
+I'm Sohal Sudheer, a Cyber Security Engineering student at the George Mason University! I love programming, repairing computer hardware, exploring Linux-based operating systems, competing in the occasional CTF, and going on long bike rides!
 
 ###### Skills
 
